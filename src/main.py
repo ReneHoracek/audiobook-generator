@@ -8,8 +8,8 @@ OUTPUT_FILE = "fffff.mp3"       # Output audio file (will be in same folder as s
 VOICE = "cs-CZ-AntoninNeural"   # Czech voice for natural pronunciation
 
 # Audio settings
-RATE = "+0%"      # Speech rate: -50% to +100% (default +0%)
-PITCH = "+0Hz"    # Voice pitch: -100Hz to +100Hz (default +0Hz)
+RATE = "-15%"      # Speech rate: -50% to +100% (default +0%)
+PITCH = "-2Hz"    # Voice pitch: -100Hz to +100Hz (default +0Hz)
 VOLUME = "+0%"    # Volume level: -100% to +100% (default +0%)
 # -----------------
 
